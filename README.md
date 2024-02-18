@@ -8,4 +8,4 @@
 # Software Requirements:
 Windows Operating System - Windows 10 (32 bit (e) 64 bit),Interface Require Min 2 GB RAM, Max 4 GB, Visual Studio 2010- Vb.net (frame work 4) - Frontend Tool, Oracle 11g-Backend Tool, Crystal Reports-Report Designing Tool MS-Office Documenting Tool, Front End Tool - Visual Studio 2010- Vb.net (frame work 4), Processor - Dual Core 2.6 GHz (minimum), RAM - 2 GB, Hard disk - 3 GB Free space, Screen Resolution - 1024 X 768 (Direct X capable 9), Back End Tool - Oracle 11g, Processor - Dual Core 2.6 GHz (minimum), RAM 1 GB, Hard disk 2 GB Free space, Screen Resolution 1024 X 768 (Direct X capable 9), Virtual Memory Double the amount of RAM, Network Protocol TCP/IP, TCP/IP with SSL, Reporting Tool Crystal Reports, Processor Dual Core 2.6 GHz (minimum), RAM 512 MB Minimum, Hard disk 300 MB Free Space 
 ![image](https://github.com/ShaikArshad1234/MinorProject-VB.Net/assets/115883482/c078e04d-86bf-48c6-9422-48557c293fa0)     Spider Model
-![image](https://github.com/ShaikArshad1234/MinorProject-VB.Net/assets/115883482/61a691a6-9770-440d-9526-1ff67cc8e2d9)
+
