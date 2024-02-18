@@ -1,0 +1,43 @@
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Batch.resources
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.College.resources
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Course.resources
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Indiscipline.resources
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LoginForm.resources
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MDI.resources
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Staff.resources
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Student.resources
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Welcome.resources
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\SDMS.vbproj.GenerateResource.Cache
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.ADODB.dll
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\SDMS.vbproj.ResolveComReference.cache
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\Interop.ADODB.dll
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\SDMS.vbproj.ResolveComReference.cache
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\SDMS\SDMS\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\SDMS\SDMS\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\SDMS\SDMS\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\SDMS.vbprojResolveAssemblyReference.cache
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Batch.resources
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Course.resources
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Indiscipline.resources
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LoginForm.resources
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MDI.resources
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Staff.resources
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Student.resources
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Welcome.resources
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\SDMS.vbproj.GenerateResource.Cache
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\Interop.ADOR.dll
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Semester.resources
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Offence.resources
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Transaction.resources
+D:\SDMS\SDMS\WindowsApplication1\obj\x86\Debug\WindowsApplication1.College.resources

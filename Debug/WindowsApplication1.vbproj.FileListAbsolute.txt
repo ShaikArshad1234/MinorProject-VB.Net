@@ -1,0 +1,11 @@
+c:\users\temp\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+c:\users\temp\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\temp\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\temp\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\temp\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\temp\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+c:\users\temp\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+c:\users\temp\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+c:\users\temp\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LoginForm.resources
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Welcome.resources
+c:\Users\TEMP\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MDI.resources
